@@ -1,14 +1,17 @@
-
 import './App.css';
-import myBody  from './components/myBody';
-import Fatma from '../componants/fatma/test';
-import Header from "./components/mohatdy";
+import Fatma from './components/Fatma';
+import Mohatdy from "./components/Mohatdy";
+import Sameh from "./components/Sameh";
+import AlaaMostafa from './components/AlaaMostafa'
+
+
 function App() {
   return (
    <>
-      <myBody/>
-      <Header />
-      <Fatma></Fatma>
+      <AlaaMostafa/>
+      <Sameh/>
+      <Mohatdy />
+      <Fatma/>
    </>
   );
 }
