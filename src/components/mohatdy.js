@@ -7,7 +7,7 @@ export default function Header() {
 
       <div className="col-sm- text-center mt-5">
 
-        <h1>MOHTADY</h1>
+        <h1>MAHMOUD MOHTADY</h1>
 
       </div>
 
