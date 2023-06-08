@@ -3,6 +3,7 @@ import Fatma from './components/Fatma';
 import Mohatdy from "./components/Mohatdy";
 import Sameh from "./components/Sameh";
 import AlaaMostafa from './components/AlaaMostafa'
+import Adel from './components/adelas';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Sameh/>
       <Mohatdy />
       <Fatma/>
+      <Adel/>
    </>
   );
 }
